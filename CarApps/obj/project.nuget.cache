@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8iGkpS1k49w4ue0MFpuO7iIphdNmv1FZEz5gnjahVz5IKBpzM3K/1b3S14GQ7idVVg0SfZRF2Ch6AU6r8IafA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\source\\repos\\CarApps\\CarApps\\CarApps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nacho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nacho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
