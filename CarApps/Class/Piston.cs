@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CarApps.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -15,6 +16,7 @@ namespace CarApps
         public void ArrancarPiston()
         {
             Console.WriteLine("Pistón arranca");
+            Motor.ExplotoPiston();
         }
     }
 }

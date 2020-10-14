@@ -24,5 +24,9 @@ namespace CarApps
             Console.WriteLine("EL MOTOR AVISO");
         }
 
+        public void ArrancarMotor()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

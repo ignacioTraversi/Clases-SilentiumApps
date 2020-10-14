@@ -6,7 +6,7 @@ namespace CarApps.Interfaces
 {
     public interface IMotoActions
     {
-        void ArrancoPiston();
+        void ExplotoPiston();
        
     }
 }

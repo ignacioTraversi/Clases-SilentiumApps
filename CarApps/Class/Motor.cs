@@ -24,7 +24,12 @@ namespace CarApps
 
         public void ArrancarMotor()
         {
-            Piston.ArrancarPiston;
+            Piston.ArrancarPiston();
+        }
+
+        public void ExplotoPiston()
+        {
+            throw new NotImplementedException();
         }
     }
 }

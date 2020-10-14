@@ -6,6 +6,6 @@ namespace CarApps.Interfaces
 {
     public interface IAutoActions
     {
-        void ArrancoMotor();
+        void ArrancarMotor();   
     }
 }
